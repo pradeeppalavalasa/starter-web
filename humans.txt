@@ -6,7 +6,7 @@
     Pradeep -- pradeeppalavala007@gmail.com -- <twitter>
 
 # THANKS
-
+	Thanks to Git trainer
     <name>
 
 # TECHNOLOGY COLOPHON
