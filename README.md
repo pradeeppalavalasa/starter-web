@@ -1,8 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
-Adding  a line
-More changes from my feature branch too
+Quick fix to file after stash
 
 ## Introduction
 This repository is for showing how Git and GitHub work
