@@ -7,6 +7,7 @@
 
 # THANKS
 	Thanks to Git trainer
+	I liked the course
     <name>
 
 # TECHNOLOGY COLOPHON
